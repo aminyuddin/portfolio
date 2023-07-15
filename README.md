@@ -1,5 +1,7 @@
 A responsive single page portfolio showcasing my skills and achievements.
 
+![Preview](https://github.com/aminyuddin/portfolio/blob/assets/preview.png)
+
 **[View Live Preview](https://amnydn.dev/)**
 
 ## Table of Contents
